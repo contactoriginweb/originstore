@@ -1,0 +1,2 @@
+# originstore
+OriginWeb Affiliate Store
